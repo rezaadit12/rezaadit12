@@ -1,6 +1,7 @@
+![logo](https://github.com/rezaadit12/rezaadit12/blob/main/about.gif)
 <h1 align="center">Hi 👋, I'm Muhamad Reza Aditya</h1>
 <h3 align="center">I'm a student, and currently focusing on backend developer.</h3>
-<img src"https://i.gifer.com/embedded/download/5jZ3.gif">
+<!-- <img src"https://i.gifer.com/embedded/download/5jZ3.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaadit12&label=Profile%20views&color=0e75b6&style=flat" alt="rezaadit12" /> </p>
 
 <h3 align="left">Connect with me:</h3>
