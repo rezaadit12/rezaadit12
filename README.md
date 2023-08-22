@@ -1,10 +1,3 @@
-
-    <style>
-        .logo {
-            border-radius: 5px;
-        }
-    </style>
-
 ![logo](https://github.com/rezaadit12/rezaadit12/blob/main/Matrix_Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Muhamad Reza Aditya</h1>
 <h3 align="center">I'm a student, and currently focusing on backend developer.</h3>
