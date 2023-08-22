@@ -1,4 +1,4 @@
-![logo](https://github.com/rezaadit12/rezaadit12/blob/main/about.gif)
+![logo](h[ttps://github.com/rezaadit12/rezaadit12/blob/main/about.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21448164-1432-4dfc-ac12-90fe19427b6f/dd2o82v-5d443743-9266-44ad-a357-1b4048d62cfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxNDQ4MTY0LTE0MzItNGRmYy1hYzEyLTkwZmUxOTQyN2I2ZlwvZGQybzgydi01ZDQ0Mzc0My05MjY2LTQ0YWQtYTM1Ny0xYjQwNDhkNjJjZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OlExHY-LpdNrt6ulKSdV6BuPTRT3qBO55XJeSNVQeac))
 <h1 align="center">Hi 👋, I'm Muhamad Reza Aditya</h1>
 <h3 align="center">I'm a student, and currently focusing on backend developer.</h3>
 <!-- <img src"https://i.gifer.com/embedded/download/5jZ3.gif"> -->
