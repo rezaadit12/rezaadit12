@@ -1,3 +1,6 @@
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 # 💫 About Me:
 🧒 My name is Muhamad Reza Aditya<br>🌱 I was born on December 19, 2006<br>🏫 I am a student at Wikrama Vocational High School<br>💬 I am currently learning various programming languages<br>⚡ I aspire to be a Backend Developer
 
