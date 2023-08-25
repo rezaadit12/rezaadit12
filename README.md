@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://www.git-tower.com/blog/posts/git-for-marketing-teams/header@3960w.png">
 
 
 # 💫 About Me:
